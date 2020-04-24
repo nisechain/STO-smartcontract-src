@@ -1,0 +1,31 @@
+Token name: Nise Chain
+
+Token ticker: STO
+
+Token decimals: 18
+
+Multisig wallet address: 0xC640f52F70de5c59D500D6B1693725cDa65E4Fe2
+
+*****************************
+
+Crowdsale rate: 9680000000000000
+
+Crowdsale start time: 2020-03-17T13:35 (GMT + 7)
+
+Crowdsale end time: 2020-03-18T00:00 (GMT + 7)
+
+Compiler Version: 0.4.11
+
+Is optimization enabled?: true
+
+*****************************
+
+SafeMathLib library name: SafeMathLibExt
+
+SafeMathLib library address: 0xa429808C75e080192B1b955B872E3755B12590b5
+
+*****************************
+
+****SafeMathLib contract ABI:**** 
+
+[{"constant":false,"inputs":[{"name":"a","type":"uint256"},{"name":"b","type":"uint256"}],"name":"times","outputs":[{"name":"","type":"uint256"}],"payable":false,"type":"function"},{"constant":false,"inputs":[{"name":"a","type":"uint256"},{"name":"b","type":"uint256"}],"name":"plus","outputs":[{"name":"","type":"uint256"}],"payable":false,"type":"function"},{"constant":false,"inputs":[{"name":"a","type":"uint256"},{"name":"b","type":"uint256"}],"name":"divides","outputs":[{"name":"","type":"uint256"}],"payable":false,"type":"function"},{"constant":false,"inputs":[{"name":"a","type":"uint256"},{"name":"b","type":"uint256"}],"name":"minus","outputs":[{"name":"","type":"uint256"}],"payable":false,"type":"function"}]
